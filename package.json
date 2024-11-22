@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/ex-occaecati-ab-eligendi",
-  "version": "8.18.188",
+  "version": "8.18.189",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -121,5 +121,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/ex-occaecati-ab-eligendi/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
